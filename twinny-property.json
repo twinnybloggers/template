@@ -1,0 +1,532 @@
+             <![CDATA[
+               PENGATURAN-TWINNY-MENU
+                      "main_menu": {
+                       "title" : "Menu Twinny Property",
+                       "start": "<!--TWINNY-MAIN-MENU-LOCATION-START-->",
+                       "end": "<!--TWINNY-MAIN-MENU-LOCATION-END-->",
+                       "fields" : {
+                         "icon": {
+                         "title": "Menu Icon",
+                         "desc": "Check Kode Font awesome <a href=\"https://fontawesome.com/icons/\" target=\"_blank\">Lihat FontAwesome Icon Code</a>"
+                        }
+                       }
+                      }
+                PENGATURAN-TWINNY-MENU
+              ]]>
+            <![CDATA[
+              PENGATURAN-TWINNYTHEMES-BLOGGER
+                "property-default": {
+                   "title" : "Twinny Property - Default orange Blogger templates",
+                   "preview": "https://blogger.googleusercontent.com/img/a/AVvXsEhSDYXAVl9G-Hef9wo1t6lWJoFZseQuLz3mBZW1WVB6Lb4LLUcWpQugG-KM_FkzojERFrMKyHT4VkA-ySdzGzY-CQfFfvkAqPns01qvNb24bnIrPzgB6HUNSGdH8zMUJvH8Qo_FqUmWd0ZlO44Y_vseGDuy3cPE1ZKqvgwztQDHC8cRNHzALngJ7bA8kQ",
+                   "thumb": "https://blogger.googleusercontent.com/img/a/AVvXsEhSDYXAVl9G-Hef9wo1t6lWJoFZseQuLz3mBZW1WVB6Lb4LLUcWpQugG-KM_FkzojERFrMKyHT4VkA-ySdzGzY-CQfFfvkAqPns01qvNb24bnIrPzgB6HUNSGdH8zMUJvH8Qo_FqUmWd0ZlO44Y_vseGDuy3cPE1ZKqvgwztQDHC8cRNHzALngJ7bA8kQ",
+                "data" : {
+                    "settings": {
+                       "lebar": "1180px",
+                       "header.height" : "90px",
+                       "footer.height" : "110px"
+                    },
+                     "variables": {
+                       "keycolor" : "#000000",   
+                       "body.background" : "#ffffff",
+                       "link.color" : "#434343",
+                       "body.text.color" : "#1d2129",
+                       "posts.background.color" : "rgba(42,42,42,0)",
+                       "body.link.color" : "#434343",
+                       "body.link.visited.color" : "#000000",
+                       "body.link.hover.color" : "#000000",
+                       "blog.title.color" : "#ffffff"
+                    },
+                    "widgets": {
+                       "cover-home" : [
+                        { "type" : "Image",
+                         "displayurl" : "https://blogger.googleusercontent.com/img/a/AVvXsEi1Y2W4AlttxiiQYgpAxQPieuPuW50ipLw4iPjQp0oOgPcu0gMvqS5b76tllQd5Zp2bDDecwwYyNkGx8N-3EShlFR6cD2f2qKjH0inuYTYUp2GK8L2hpt8NWQJfLUYRU2oHxT4P1qS2qEeTvPqsFp5j6Zp3nb6_STEtA__aCp6Z6H8TmJ3FRv2s35kA=w300"
+                        }
+                       ],
+                       "footer-wide" : [
+                       ]
+                    }
+                  }
+                },
+                "property-dark": {
+                   "title" : "Twinny Property - Dark Blogger templates",
+                   "preview": "https://blogger.googleusercontent.com/img/a/AVvXsEhSDYXAVl9G-Hef9wo1t6lWJoFZseQuLz3mBZW1WVB6Lb4LLUcWpQugG-KM_FkzojERFrMKyHT4VkA-ySdzGzY-CQfFfvkAqPns01qvNb24bnIrPzgB6HUNSGdH8zMUJvH8Qo_FqUmWd0ZlO44Y_vseGDuy3cPE1ZKqvgwztQDHC8cRNHzALngJ7bA8kQ",
+                   "thumb": "https://blogger.googleusercontent.com/img/a/AVvXsEhSDYXAVl9G-Hef9wo1t6lWJoFZseQuLz3mBZW1WVB6Lb4LLUcWpQugG-KM_FkzojERFrMKyHT4VkA-ySdzGzY-CQfFfvkAqPns01qvNb24bnIrPzgB6HUNSGdH8zMUJvH8Qo_FqUmWd0ZlO44Y_vseGDuy3cPE1ZKqvgwztQDHC8cRNHzALngJ7bA8kQ",
+                "data" : {
+                    "settings": {
+                     "lebar": "1280px"
+                    },
+                     "Variables": {
+                       "body.background" : "#aaa",
+                       "link.color" : "#434343",
+                       "body.text.color" : "#ffffff",
+                       "posts.background.color" : "#aaa",
+                       "body.link.color" : "#434343",
+                       "body.link.visited.color" : "#434343",
+                       "body.link.hover.color" : "#434343",
+                       "blog.title.color" : "#ffffff"
+                    }
+                  }
+                }
+              PENGATURAN-TWINNYTHEMES-BLOGGER
+             ]]>      
+              <![CDATA[
+                  CHANGELOG-TWINNYFRAMEWORK-BLOGGER
+                  "v3.2.2": {
+                  "title" : "Changelog White Winter 3.2.2 ",
+                  "thumb": "https://1.bp.blogspot.com/-hvImmFR9hvU/XynrTkhr0xI/AAAAAAAAFHA/3Z_FD0NpF6sDCWis1ivWm1rNCoOkn5SDQCLcBGAsYHQ/s640/White%2BWinter-preview-01.png",
+                "informasi": "<ul><li>Update CSS</li><li><b>Added:</b> Middle ads Framework Ready (Middle Ads untuk Postingan) Check Pada Pengaturan Iklan </li></ul>"
+                  },
+                  "v3.2.0": {
+                  "title" : "Changelog White Winter 3.2.0",
+                  "thumb": "https://1.bp.blogspot.com/-hvImmFR9hvU/XynrTkhr0xI/AAAAAAAAFHA/3Z_FD0NpF6sDCWis1ivWm1rNCoOkn5SDQCLcBGAsYHQ/s640/White%2BWinter-preview-01.png",
+                "informasi": "<ul><li>Update CSS</li><li><b>Fixed:</b> Lightbox aktif meskipun <b>lightbox</b> pada pengaturan blogger belum diaktifkan</li><li><b>Added:</b> Subtitle Matcing Pada Mode Tertentu saja</li><li><b>Added:</b> Mega Menu</li><li><b>Added:</b> Mega Link Not Working</li></ul>"
+                  },
+                  "Changelog-Framework": {
+                  "title" : "Changelog Framework 5.6 ",
+                  "thumb": "https://4.bp.blogspot.com/-1R7LDgYsEsQ/Xidpw3bXchI/AAAAAAAAEMw/3aeWQe6dTcgp0ssPL-EFyrbIoTpQls6GgCLcBGAsYHQ/s1600/20191225_155027.png",
+                  "informasi": "<ul><li>Fixed: Twinny Merge Telah Diperbaiki dan diperbaharui <i class='fal fa-times'></i></li><li>Pada Bantuan (pojok Kanan Atas Layar) Terdapat bantuan yang bisa anda gunakan untuk menyimpan sesuatu (kata-kata) Tidak dalam berbentuk Jquery/Javascript</li></ul>"
+                  }
+                  CHANGELOG-TWINNYFRAMEWORK-BLOGGER
+              ]]>  
+
+                <![CDATA[
+                  TWINNY_BLOGGER-TEMPLATE-OPTIONS
+                     "<b style='color:var(--key2);font-weight:900;'><i class='fa fa-paw fa-fw fa-lg'></i>  INTRODUCE </b>": {
+                     "<b style='color:var(--key2);font-weight:900;'><i class='fal fa-cogs fa-fw fa-lg'></i> Selamat Datang di Twinny Property Templates - TOKO ONLINE Order via whatsapp</b>": {
+                      "desc": "<div class='twinny-introduce'><center><a href=\"https://twinny-digital.blogspot.com\" target=\"blank\"><img src=\"https://blogger.googleusercontent.com/img/a/AVvXsEhSDYXAVl9G-Hef9wo1t6lWJoFZseQuLz3mBZW1WVB6Lb4LLUcWpQugG-KM_FkzojERFrMKyHT4VkA-ySdzGzY-CQfFfvkAqPns01qvNb24bnIrPzgB6HUNSGdH8zMUJvH8Qo_FqUmWd0ZlO44Y_vseGDuy3cPE1ZKqvgwztQDHC8cRNHzALngJ7bA8kQ\" width=\"100%\"/></a><br><h2>Terimakasih atas Pembelian <b><a href=\"https://tokkoblogger.blogspot.com/2022/03/twinny-property-template.html\" target=\"blank\">Twinny Property Blogger Templates</a> <br/> Jasa Sewa Property Fast Reloading Dan Responsive</b></h2></center><br> Anda telah Memberikan kepercayaan untuk kami untuk memberikan yang terbaik untuk Template yang anda Pesan Pada <b>Tokko Blogger - TwinnyBlogger</b> <br> Kami telah menyiapkan Pengaturan untuk anda agar anda dapat menggunakan <b>Twinny Framework Dashboard Extension, Lite Atau Bookmark</b> Agar memudahkan anda menyunting Template anda dengan Mudah dan Tanpa Ribet <br><br> <b>NB:  Jika ada Keluhan? Silahkan Hubungi Team Support Kami       <a style=\"float:right\" href=\"https://twinnybloggers.blogspot.com/p/hubungi-kami.html\" target=\"blank\"> <button>Hubungi Kami</button></a>    </b>      <hr margin='20px 20px;'/><center><h2>TWINNY FRAMEWORK DASHBOARD - Extension, Lite Dan Bookmark Button</h2></center> <a href=\"https://twinnybloggers.blogspot.com/2019/12/twinny-framework.html\" target=\"blank\"><img src=\"https://blogger.googleusercontent.com/img/a/AVvXsEjEr2aAD5bX_c7OABHnqwGyHB8KULBtEPR6ixHT8RZ9C-obtvVIWkGc7al1HvIpIPo43XkTGAg48I3GFE5BNxO-h0KygwUzar7F3y00bg7V7Y1WWixGBlsvDk_xr34MIqg-AHrkrFrcU_tiy62rFmovVQ15GEl3Bqx8DN2T9pLRNbra4efhfQYkMc21aQ=s2700\" width=\"100%\"/></a><br> Jika anda ingin Setup template anda silahkan pilih pada sidebar disebelah kiri anda untuk mengatur template yang sedang anda ingin atur baik dari sistem Sidebar, Sistem Komentar dan lain-lain. pastikan Template anda support dengan Twinny Settings Karna beberapa tidak support dengan Twinny Settings             <hr margin='20px 20px;'/><center><h2>[ADVERTISE] TWINNY WHATSAPP MOVIES CREATED BY  <a href=\"https://tokkoblogger.blogspot.com\" target=\"blank\">Tokko Blogger - TwinnyBlogger</a></h2></center> <a href=\"https://1.bp.blogspot.com/-Ou5Y_35kSoU/XpeKHUEojZI/AAAAAAAAE1g/evug7N639NQq-vIhs8HF-U07afNesJLdACLcBGAsYHQ/s1600/twinnycovers.png\" target=\"blank\"><img src=\"https://1.bp.blogspot.com/-Ou5Y_35kSoU/XpeKHUEojZI/AAAAAAAAE1g/evug7N639NQq-vIhs8HF-U07afNesJLdACLcBGAsYHQ/s1600/twinnycovers.png\" width=\"100%\"/></a><br> <b>TWINNY WHATSAPP MOVIES</b> Dibuat oleh <b>Tokko Blogger - TwinnyBlogger</b> Dengan Tampilan ELegant dan Menarik, Terdapat fitur-fitur Addons Dari <b>Tokko Blogger</b> Yang Dipasang Pada <b>TWINNY WHATSAPP MOVIES</b></div>"
+                     }
+                    },
+
+                    "<i class='fal fa-lg fa-cogs'></i> <b style='color:var(--key);font-weight:900;'>Twinny Property</b> Framework": {
+                    "FAQ Area Mode": {
+                      "start": "<!--twinny-property-faq--><b:if cond='",
+                      "end": "'><!--twinny-property-faq-->",
+                      "type" : "checkbox",
+                      "default": true,
+                      "check": true,
+                      "uncheck": false,
+                      "desc": "Checklist untuk mengaktifkan FAQ Area Mode"
+                     },
+                    "<b style='color:#009688;font-weight:900;'<i class='fal fa-fw  fa-tablet'></i> Tambahkan Question Dan Answer Untuk FAQ Area Anda</b> ": {
+                      "start": "&lt;!--faq-inside--&gt;",
+                      "end": "&lt;!--faq-inside--&gt;",
+                      "type" : "textarea",
+                      "desc" : "Tambahkan Question Dan Answer Untuk FAQ Area Anda<br><br><br> Contoh Kode  :<br> <b>[Answer]</b> Harus diakhir <b>[/Answer]</b><br><b>[Question]</b> harus di akhiri <b>[/question]</b>"
+                     },
+                    "Service Area Mode": {
+                      "start": "<!--twinny-property-service--><b:if cond='",
+                      "end": "'><!--twinny-property-service-->",
+                      "type" : "checkbox",
+                      "default": true,
+                      "check": true,
+                      "uncheck": false,
+                      "desc": "Checklist untuk mengaktifkan SERVICE Area Mode"
+                     },
+                    "<b style='color:#009688;font-weight:900;'>[Homepage]</b> Tampilkan Produk": {
+                      "start": "/*var-product-grid*/",
+                      "end"  : "/*var-product-grid*/",
+                      "type" : "select",
+                      "choice" : {
+                       "repeat(1, 1fr)" : "1 produk 1 baris",
+                       "repeat(2, 1fr)" : "2 produk 1 baris",
+                       "repeat(3, 1fr)" : "3 produk 1 baris [Recommended]",
+                       "repeat(4, 1fr)" : "4 produk 1 baris",
+                       "repeat(5, 1fr)" : "5 produk 1 baris",
+                       "repeat(6, 1fr)" : "6 produk 1 baris",
+                       "repeat(7, 1fr)" : "7 produk 1 baris",
+                       "repeat(8, 1fr)" : "8 produk 1 baris",
+                       "repeat(9, 1fr)" : "9 produk 1 baris",
+                       "repeat(10, 1fr)" : "10 produk 1 baris"
+                      },
+                      "desc" : "Tampilkan Produk Pada Index Default: repeat 4, 1fr"
+                     },
+                    "<b style='color:#009688;font-weight:900;'>[Menu]</b> Twinny Menu Property": {
+                      "start": "<!--var-menu-default--><b:if cond='",
+                      "end": "'><!--var-menu-default-->",
+                      "type" : "select",
+                      "choice" : {
+                      "true": "[Default] Aktifkan Menu Default",
+                      "false": "[Framework] Aktifkan Menu Framework"
+                        },
+                      "desc": "Aktifkan Author Info Profile Pada Posting Section."
+                     },
+                    "<b style='color:#009688;font-weight:900;'>[Homepage]</b> Cover Widget": {
+                      "start": "<!--var-cover-home--><b:if cond='",
+                      "end": "'><!--var-cover-home-->",
+                      "type" : "select",
+                      "choice" : {
+                      "true": "Aktifkan Cover Pada Homepage",
+                      "false": "Nonaktifkan"
+                        },
+                      "desc": "Aktifkan Author Info Profile Pada Posting Section."
+                     },
+                    "Sortir Produk (Terbaru, Harga Tertinggi, Harga Terendah)": {
+                      "start": "<!--var-sortir-produk--><b:if cond='",
+                      "end": "'><!--var-sortir-produk-->",
+                      "type" : "select",
+                      "choice" : {
+                      "true": "Aktifkan Sortir Produk (Terbaru, Harga Tertinggi, Harga Terendah)",
+                      "false": "Nonaktifkan"
+                        },
+                      "desc": "Aktifkan Sortir Produk (Terbaru, Harga Tertinggi, Harga Terendah)."
+                     },
+                    "Tombol Action View More Produk": {
+                      "start": "<!--var-view-more-produk--><b:if cond='",
+                      "end": "'><!--var-view-more-produk-->",
+                      "type" : "select",
+                      "choice" : {
+                      "true": "Aktifkan View More Action Button",
+                      "false": "Nonaktifkan"
+                        },
+                      "desc": "Tombol Action View More Produk."
+                     },
+                    "Copyright <b style='color:var(--key);font-weight:900;'>Tokko Blogger</b>": {
+                      "start": "<!--var-tokkoblogger--><b:if cond='",
+                      "end": "'><!--var-tokkoblogger-->",
+                      "type" : "select",
+                      "choice" : {
+                      "true": "Aktifkan Copyright Tokko Blogger",
+                      "false": "Nonaktifkan"
+                        },
+                      "desc": "Jika Twinny Property - Blogger Template adalah Gratisan Maka Aktifkan Copyright <b style='color:var(--key);font-weight:900;'>Tokko Blogger</b>."
+                     },
+                    "<b style='color:#009688;font-weight:900;'>[Rekomendasi]</b> Rekomendasi Widget pada Homepage": {
+                      "start": "<!--get-recommended-produk--><b:if cond='",
+                      "end": "'><!--get-recommended-produk-->",
+                      "type" : "select",
+                      "choice" : {
+                      "true": "Aktifkan Rekomendasi Widget",
+                      "false": "Nonaktifkan"
+                        },
+                      "desc": "Tombol Action View More Produk."
+                     },
+                    "[Label @Search Form] Label Pada Pencaharian": {
+                      "start": "<!--search-label-variable--><b:if cond='",
+                      "end": "'><!--search-label-variable-->",
+                      "type" : "select",
+                      "choice" : {
+                      "true": "Aktifkan Label Pada Pencaharian",
+                      "false": "Nonaktifkan"
+                        },
+                      "desc": "Aktifkan Label Pada Pencaharian."
+                     }
+                    },
+                    "<i class='fal fa-user-edit fa-lg'></i> Pengaturan Akun": {
+                     "I. PENGATURAN AKUN": {
+                      "desc": "<a href=\"https://twinnybloggers.blogspot.com/2019/12/twinny-spot-setting-and-spanlate.html\" target=\"blank\"><img src=\"https://blogger.googleusercontent.com/img/a/AVvXsEhSDYXAVl9G-Hef9wo1t6lWJoFZseQuLz3mBZW1WVB6Lb4LLUcWpQugG-KM_FkzojERFrMKyHT4VkA-ySdzGzY-CQfFfvkAqPns01qvNb24bnIrPzgB6HUNSGdH8zMUJvH8Qo_FqUmWd0ZlO44Y_vseGDuy3cPE1ZKqvgwztQDHC8cRNHzALngJ7bA8kQ=s790\" width=\"100%\"/></a><br>Jika anda ingin melakukan Setup template anda silahkan pilih pada sidebar disebelah kiri anda untuk mengatur template yang sedang anda ingin atur baik dari sistem Sidebar, Sistem Komentar dan lain-lain. pastikan Template anda support dengan Twinny Settings Karna beberapa tidak support dengan Twinny Settings"
+                     },
+
+                    "<i class='fal fa-fw  fa-tablet'></i> Nomor Whatsapp": {
+                      "start": "&quot;whatsapp&quot;: &quot;",
+                      "end": "&quot;,",
+                      "type" : "number",
+                      "desc" : "Masukan Nomor Whatsapp anda (Wajib)"
+                     },
+                    "<i class='fal fa-fw  fa-tablet'></i> Tombol CTA (Call To Action) ": {
+                      "start": "&quot;order_button_text&quot;: &quot;",
+                      "end": "&quot;,",
+                      "type" : "text",
+                      "desc" : "Nama Tombol (Booking/Pesan/Chat)"
+                     },
+                    "<i class='fab fa-fw  fa-google'></i> Kata-kata untuk Order CTA": {
+                      "start": "&quot;order_text&quot;: &quot;",
+                      "end": "&quot;,",
+                      "type" : "textarea",
+                      "desc" : "Ubah Dengan Text Anda, inget *[title]* Jangan diganti/dihapus"
+                     },
+                    "<i class='fab fa-fw  fa-google'></i> Kode Negara": {
+                      "start": "&quot;country_id&quot; : &quot;",
+                      "end": "&quot;,",
+                      "type" : "text",
+                      "desc" : "Ubah Dengan Text Anda, inget *[title]* Jangan diganti/dihapus"
+                     },
+                    "<i class='fab fa-fw  fa-google'></i> Currency (Mata Uang)": {
+                      "start": "&quot;currency&quot; : &quot;",
+                      "end": "&quot;,",
+                      "type" : "text",
+                      "desc" : "Ubah Dengan Text Anda, inget *[title]* Jangan diganti/dihapus"
+                     }
+                    },
+
+
+                    "<b style='color:#009688;font-weight:900;'><i class='fa fa-lg  fa-paint-brush'></i> Pengaturan Template</b>": {
+                      "Tombol Dark Mode": {
+                        "start": "<!--dark-mode--><b:if cond='",
+                        "end": "'><!--dark-mode-->",
+                        "type" : "select",
+                        "choice" : {
+                        "true": "Aktifkan Dark mode (Pada Footer)",
+                        "false": "Nonaktifkan"
+                          },
+                        "desc": "Tombol Action Dark Mode Pada Footer."
+                       },
+                      "Tombol Back To Top": {
+                        "start": "<!--backtotop--><b:if cond='",
+                        "end": "'><!--backtotop-->",
+                        "type" : "select",
+                        "choice" : {
+                        "true": "Aktifkan Back to top (Pada Footer)",
+                        "false": "Nonaktifkan"
+                          },
+                        "desc": "Tombol Action Back to top Pada Footer."
+                       }
+                    },
+
+                    "<i class='fal fa-bolt fa-lg fa-fw'></i> Pengaturan <b style='color:var(--key);font-weight:900;'>Posting</b>": {
+                    "Author Info Profile Post": {
+                      "start": "/*var-profile-info*/",
+                      "end": "/*var-profile-info*/",
+                      "type" : "select",
+                      "choice" : {
+                      "grid": "Aktifkan Author Info Profile Pada Posting Section",
+                      "none": "Nonaktifkan"
+                        },
+                      "desc": "Aktifkan Author Info Profile Pada Posting Section."
+                     },
+                    "Tampilkan Discount Produk": {
+                      "start": "/*var-persen*/",
+                      "end": "/*var-persen*/",
+                      "type" : "select",
+                      "choice" : {
+                      "inline-block": "Aktifkan Discount Produk",
+                      "none": "Nonaktifkan"
+                        },
+                      "desc": "Aktifkan Discount Produk."
+                     },
+                    "Breadcrumb": {
+                      "start": "<!--nav-breadcrumb--><b:if cond='",
+                      "end": "'><!--nav-breadcrumb-->",
+                      "type" : "select",
+                      "choice" : {
+                      "true": "Aktifkan Breadcrumb",
+                      "false": "Nonaktifkan"
+                        },
+                      "desc": "Aktifkan Breadcrumb pada Postingan."
+                     },
+                    "<b style='color:#009688;font-weight:900;'>[#Rekomendasi]</b> Sticky Photos Produk": {
+                      "start": "<!--var-sticky-photos--><b:if cond='",
+                      "end": "'><!--var-sticky-photos-->",
+                      "type" : "select",
+                      "choice" : {
+                      "true": "Aktifkan Sticky Photo Produk",
+                      "false": "Nonaktifkan"
+                        },
+                      "desc": "Aktifkan Sticky Photos pada Postingan."
+                     }
+                    },
+
+                    "<i class='fal fa-lg fa-comments-alt'></i> Pengaturan Komentar": {
+
+                    "Aktifkan Komentar (Blogger)": {
+                      "start": "<!--var-commentact--><b:if cond='",
+                      "end": "'><!--var-commentact-->",
+                      "type" : "checkbox",
+                      "default": true,
+                      "check": true,
+                      "uncheck": false,
+                      "desc": "Aktifkan Komentar (Blogger)"
+                     }
+                    },
+
+
+                    "<i class='fal fa-lg fa-bullhorn fa-lg' style='color:#6195FF;font-weight:100;'></i> Live Sales Section": {
+                     "Live Sales - From Twinny Script Created By Twinny Blogger": {
+                      "desc": "<a href=\"https://3.bp.blogspot.com/--WPF3dhPwpE/XnXJswRY4tI/AAAAAAAAEps/1T6T8WZ2w7gt9TIysiR6jlzK6NyF9PRAQCLcBGAsYHQ/s1600/Screenshot_20200319-221615_Chrome.jpg\" target=\"blank\"><img src=\"https://3.bp.blogspot.com/--WPF3dhPwpE/XnXJswRY4tI/AAAAAAAAEps/1T6T8WZ2w7gt9TIysiR6jlzK6NyF9PRAQCLcBGAsYHQ/s1600/Screenshot_20200319-221615_Chrome.jpg\" width=\"100%\"/></a><br>Jika anda ingin melakukan Setup template anda silahkan pilih pada sidebar disebelah kiri anda untuk mengatur template yang sedang anda ingin atur baik dari sistem Sidebar, Sistem Komentar dan lain-lain. pastikan Template anda support dengan Twinny Settings Karna beberapa tidak support dengan Twinny Settings"
+                     },
+                    "<i class='fa fa-lg icon ion-md-folder-open'></i> Aktifkan Live Sales": {
+                      "start": "<!--var-livesales-activation--><b:if cond='",
+                      "end": "'><!--var-livesales-activation-->",
+                      "type" : "select",
+                      "choice" : {
+                       "true" : "Aktifkan Live Sales Section",
+                       "false" : "Nonaktif"
+                      },
+                      "desc": "Jika anda ingin Melihat Produk info pada Request, Deskripsi, Ulasan dan lain-lain, Aktifkan Mode ini. Default: Aktifkan"
+                     },
+                    "<i class='fa fa-lg icon ion-md-folder-open'></i> Live Sales Section": {
+                      "start": "<!--var-livesales-->",
+                      "end": "<!--var-livesales-->",
+                      "type" : "textarea",
+                      "desc": "<a href=\"https://4.bp.blogspot.com/-H6OzlVtTosY/XnXJy0--gqI/AAAAAAAAEpw/p0pZuk6ZP08mb4UKwDxp9vNFBre9NdusACLcBGAsYHQ/s1600/Screenshot_20200319-221539_Chrome.jpg\" target=\"blank\" class=\"lightbox\"><img src=\"https://4.bp.blogspot.com/-H6OzlVtTosY/XnXJy0--gqI/AAAAAAAAEpw/p0pZuk6ZP08mb4UKwDxp9vNFBre9NdusACLcBGAsYHQ/s1600/Screenshot_20200319-221539_Chrome.jpg\" width=\"100%\"/></a><br>Tampikan Testimonial Section. Dianjurkan mengerti akan Script Blogger Terlebih dahulu. CATATAN: JANGAN UBAH SCRIPT, cukup ubah avaURL,Type, Link Dan Text Saja"
+                     }
+                    },
+
+                    "<i class='fa fa-lg icon ion-md-folder-open'></i> Testimonial Section": {
+                     "PENGATURAN TESTIMONIAL TWINNY EAT YOUR GREEN": {
+                      "desc": "<a href=\"https://twinnyblogger.blogspot.com/2020/02/testimonial-section.html\" target=\"blank\"><img src=\"https://2.bp.blogspot.com/-tBJr0WRVbao/Xjq7sSo0hTI/AAAAAAAAEd8/c9FiSStdkaAy9A4ZOczMM0jv6QwPMYPmgCLcBGAsYHQ/s1600/Screenshot_20200205-194928_Chrome.jpg\" width=\"100%\"/></a><br>Jika anda ingin melakukan Setup template anda silahkan pilih pada sidebar disebelah kiri anda untuk mengatur template yang sedang anda ingin atur baik dari sistem Sidebar, Sistem Komentar dan lain-lain. pastikan Template anda support dengan Twinny Settings Karna beberapa tidak support dengan Twinny Settings"
+                     },
+                    "<i class='fa fa-lg icon ion-md-folder-open'></i> Aktifkan Testimonial Section ": {
+                      "start": "<!--var-activation-review-start--><b:if cond='",
+                      "end": "'><!--var-activation-review-end-->",
+                      "type" : "select",
+                      "choice" : {
+                       "true" : "Aktifkan Testimonial Section",
+                       "false" : "Nonaktif"
+                      },
+                      "desc": "Jika anda ingin Melihat Produk info pada Request, Deskripsi, Ulasan dan lain-lain, Aktifkan Mode ini. Default: Aktifkan"
+                     },
+                    "<i class='fa fa-lg icon ion-md-folder-open'></i> Testimonial Section": {
+                      "start": "<!--var-testimonial-->",
+                      "end": "<!--var-testimonial-->",
+                      "type" : "textarea",
+                      "desc": "<a href=\"https://2.bp.blogspot.com/-tBJr0WRVbao/Xjq7sSo0hTI/AAAAAAAAEd8/c9FiSStdkaAy9A4ZOczMM0jv6QwPMYPmgCLcBGAsYHQ/s1600/Screenshot_20200205-194928_Chrome.jpg\" target=\"blank\" class=\"lightbox\"><img src=\"https://2.bp.blogspot.com/-tBJr0WRVbao/Xjq7sSo0hTI/AAAAAAAAEd8/c9FiSStdkaAy9A4ZOczMM0jv6QwPMYPmgCLcBGAsYHQ/s1600/Screenshot_20200205-194928_Chrome.jpg\" width=\"100%\"/></a><br>Tampikan Testimonial Section. Dianjurkan mengerti akan Script Blogger Terlebih dahulu. CATATAN: JANGAN UBAH SCRIPT, cukup ubah avaURL,Type, Link Dan Text Saja"
+                     },
+                    "<i class='fa fa-lg icon ion-md-folder-open'></i> Testimonial Title Section": {
+                      "start": "<!--var-testimonial-title-->",
+                      "end": "<!--var-testimonial-title-->",
+                      "type" : "text",
+                      "desc": "Ubah Testimonial Title Section anda"
+                     },
+                    "<i class='fa fa-lg icon ion-md-folder-open'></i> Testimonial Title Publisher Name": {
+                      "start": "<!--var-testimonial-publisher-->",
+                      "end": "<!--var-testimonial-publisher-->",
+                      "type" : "text",
+                      "desc": "Ubah Testimonial Title Publisher Section anda, [important] : Jangan Hapus code Tag Span, Cukup Edit Teks nya saja"
+                     },
+                    "<i class='fa fa-lg icon ion-md-folder-open'></i> Testimonial Description Text ": {
+                      "start": "<!--var-testimonial-text-->",
+                      "end": "<!--var-testimonial-text-->",
+                      "type" : "text",
+                      "desc": "Ubah  Testimonial Description Text anda"
+                     }
+                    },
+
+                    "<i class='fal fa-code fa-lg'></i> ADS System": {
+                    "<i class='icon ion-md-swap fa-lg'></i> Aktifkan Iklan Homepage Section": {
+                      "start": "<!--var-ads-homepage-part1--><b:if cond='",
+                      "end": "'><!--var-ads-homepage-part1-->",
+                      "type" : "select",
+                      "choice" : {
+                       "true" : "Aktifkan Iklan Homepage",
+                       "false" : "Nonaktifkan"
+                      },
+                      "desc": "Aktif atau nonaktifkan iklan pada Homepage Section"
+                     },
+                    "<i class='fal fa-fw  fa-pencil-square-o'></i> ADS Title ": {
+                      "start": "<!--var-ads-slide-title-->",
+                      "end": "<!--var-ads-slide-title-->",
+                      "type" : "text",
+                      "desc" : "ADS Title Slide"
+                     },
+                    "<i class='fal fa-fw  fa-pencil-square-o'></i> ADS URL Link": {
+                      "start": "<!--var-ads-slide-url--><a href='",
+                      "end": "' target='_blank'><!--var-ads-slide-url-->",
+                      "type" : "text",
+                      "desc" : "URL Link untuk ADS Slider"
+                     },
+                    "<i class='fal fa-fw  fa-pencil-square-o'></i> ADS URL Images ": {
+                      "start": "<!--var-ads-slide-image--><img src='",
+                      "end": "'/><!--var-ads-slide-image-->",
+                      "type" : "text",
+                      "desc" : "URL Link untuk ADS Slider"
+                     },
+                    "<i class='fal fa-paw fa-fw'></i>  Aktifkan Widget Iklan Pada Posting": {
+                      "start": "<!--var-ads-section-widget--><b:if cond='",
+                      "end": "'><!--var-ads-section-widget-->",
+                      "type" : "select",
+                      "choice" : {
+                       "true" : "Aktifkan Widget Iklan untuk Section Posting",
+                       "false" : "Tidak, Non Aktifkan Saja"
+                      },
+                      "desc": "<a href=\"https://3.bp.blogspot.com/-LUckHZsZgiA/Xm8pMrRd5BI/AAAAAAAAEow/qF0s7MfUklo5fOtbIdz7TIB3sOAfcoSTgCLcBGAsYHQ/s1600/Screenshot_20200316-142155_Chrome.jpg\" target=\"blank\" class=\"lightbox\"><img src=\"https://3.bp.blogspot.com/-LUckHZsZgiA/Xm8pMrRd5BI/AAAAAAAAEow/qF0s7MfUklo5fOtbIdz7TIB3sOAfcoSTgCLcBGAsYHQ/s1600/Screenshot_20200316-142155_Chrome.jpg\" width=\"100%\"/></a><br> Jika anda ingin aktifkan  Shared System Pada Produk Gambar, Pilih saja Aktifkan. Default: Aktifkan"
+                     },
+                    "<i class='fal fa-fw  fa-pencil-square-o'></i> ADS URL ": {
+                      "desc" : "WILL BE UPDATING FOR ADS SECTION"
+                     }
+                    },
+                    "<b style='color:var(--key);font-weight:900;'><i class='fab fa-lg fa-android'></i> Mobile Management</b>": {
+                    "Tampilkan Produk Pada Homepage": {
+                      "start": "/*var-product-grid-mobile*/",
+                      "end"  : "/*var-product-grid-mobile*/",
+                      "type" : "select",
+                      "choice" : {
+                       "repeat(1, 1fr)" : "1 produk 1 baris [Rekomendasi]",
+                       "repeat(2, 1fr)" : "2 produk 1 baris"
+                      },
+                      "desc" : "Tampilkan Produk Pada Index Default: repeat 4, 1fr"
+                     },
+                    "<i class='fa fa-paint-brush'></i> Meta Theme Color": {
+                      "start": "<!--meta-theme-color--><meta content='",
+                      "end": "' name='theme-color'/><!--meta-theme-color-->",
+                      "type" : "text",
+                      "desc": "Berikan warna untuk Meta Theme Color System Agar Aplikasi Web Baik dari Apple atau Android Akan berubah menjadi berwarna (Nightmode Warna Tidak Berfungsi)"
+                     },
+                    "<i class='fa fa-paint-brush'></i> Meta Tombol Navbar Color": {
+                      "start": "<!--meta-msapplication-navbutton-color--><meta content='",
+                      "end": "' name='msapplication-navbutton-color'/><!--meta-msapplication-navbutton-color-->",
+                      "type" : "text",
+                      "desc": "Berikan warna untuk Tombol Navbar Color System Agar Aplikasi Web Baik dari Apple atau Android Akan berubah menjadi berwarna (Nightmode Warna Tidak Berfungsi)"
+                     },
+                    "<i class='fa fa-paint-brush'></i> Apple Mobile Web App Status Bar": {
+                      "start": "<!--meta-apple-mobile-web-app-status-bar-style--><meta content='",
+                      "end": "' name='apple-mobile-web-app-status-bar-style'/><!--meta-apple-mobile-web-app-status-bar-style-->",
+                      "type" : "text",
+                      "desc": "Berikan warna untuk Apple Mobile Web App Status Bar Color System Agar Aplikasi Web Baik dari Apple atau Android Akan berubah menjadi berwarna (Nightmode Warna Tidak Berfungsi)"
+                     },
+                    "<i class='fa fa-lg fa-android'></i> Lebar untuk Versi Mobile": {
+                      "start": "/*var-wrappers-mobile*/",
+                      "end": "/*var-wrappers-mobile*/",
+                      "type" : "text",
+                      "desc": "Atur Pengaturan Lebar Untuk Versi Mobile. Default : 1050px"
+                     }
+                    },
+
+                    "<i class='fal fa-lg fa-cog fa-spin'></i> ADD JAVASCRIPT/CSS": {
+                    "<b style='color:#009688;font-weight:900;'>[Important]</b> ALL JAVASCRIPT/CSS CAN PUT ON TEXTAREA SECTION TWINNY PROPERTY - BLOGGER TEMPLATE": {
+                      "desc": "<a href=\"https://twinny-property.blogspot.com/\" target=\"blank\"><img src=\"https://blogger.googleusercontent.com/img/a/AVvXsEhSDYXAVl9G-Hef9wo1t6lWJoFZseQuLz3mBZW1WVB6Lb4LLUcWpQugG-KM_FkzojERFrMKyHT4VkA-ySdzGzY-CQfFfvkAqPns01qvNb24bnIrPzgB6HUNSGdH8zMUJvH8Qo_FqUmWd0ZlO44Y_vseGDuy3cPE1ZKqvgwztQDHC8cRNHzALngJ7bA8kQ=s790\" width=\"100%\"/></a><br>Jika anda ingin melakukan Setup template anda silahkan pilih pada sidebar disebelah kiri anda untuk mengatur template yang sedang anda ingin atur baik dari sistem Sidebar, Sistem Komentar dan lain-lain. pastikan Template anda support dengan Twinny Settings Karna beberapa tidak support dengan Twinny Settings"
+                     },
+                    "<i class='fa fa-code'></i> CSS Stylesheet ": {
+                      "start": "/*var-css-input-start*/",
+                      "end": "/*var-css-input-end*/",
+                      "type" : "textarea",
+                    "desc": "Masukan Css Stylesheet Pada CSS Section, Cocokan TAG Penyimpanan yang sesuai"
+                     },
+                    "<i class='fa fa-code'></i> Tag Head Script (/head) ": {
+                      "start": "<!--var-javascript-css-section-->",
+                      "end": "<!--var-javascript-css-section-->",
+                      "type" : "textarea",
+                      "desc": "Masukan Javascript/Css Pada Head Section, Cocokan TAG Penyimpanan yang sesuai"
+                     },
+                    "<i class='fa fa-code'></i> Tag Body Script (/body)": {
+                      "start": "<!--var-javascript-css-section-body-->",
+                      "end": "<!--var-javascript-css-section-body-->",
+                      "type" : "textarea",
+                    "desc": "Masukan Javascript/Css Pada Body Section, Cocokan TAG Penyimpanan yang sesuai"
+                     }
+                    },"<b style='color:#009688;font-weight:900;'><i class='fal fa-lg fa-cog fa-spin'></i> TWINNY PROPERTY - ACTIVATION</b>": {
+                    "<b style='color:#009688;font-weight:900;'>[Important]</b> Activation Twinny Property": {
+                      "desc": "<a href=\"https://twinny-property.blogspot.com/\" target=\"blank\"><img src=\"https://blogger.googleusercontent.com/img/a/AVvXsEhSDYXAVl9G-Hef9wo1t6lWJoFZseQuLz3mBZW1WVB6Lb4LLUcWpQugG-KM_FkzojERFrMKyHT4VkA-ySdzGzY-CQfFfvkAqPns01qvNb24bnIrPzgB6HUNSGdH8zMUJvH8Qo_FqUmWd0ZlO44Y_vseGDuy3cPE1ZKqvgwztQDHC8cRNHzALngJ7bA8kQ=s790\" width=\"100%\"/></a>"
+                     },"<b style='color:#009688;font-weight:900;'>[ACTIVATED Template]</b> Activated TWINNY PROPERTY - BLOGGER Template": {
+                      "start": "<!--var-tokkoblogger-activation--><b:if cond='",
+                      "end": "'><!--var-tokkoblogger-activation-->",
+                      "type" : "checkbox",
+                      "default": true,
+                      "check": true,
+                      "uncheck": false,
+                      "desc": "Aktifkan Twinny Property - Blogger Template Dari <b>Tokko Blogger</b>"
+                     }
+                    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+       TWINNY_BLOGGER-TEMPLATE-OPTIONS
+      ]]>
