@@ -1,5 +1,5 @@
              <![CDATA[
-               PENGATURAN-TWINNY-MENU
+               TWINNY_BLOGGER-MENU-OPTIONS
                       "main_menu": {
                        "title" : "Menu Twinny Property",
                        "start": "<!--TWINNY-MAIN-MENU-LOCATION-START-->",
@@ -10,8 +10,19 @@
                          "desc": "Check Kode Font awesome <a href=\"https://fontawesome.com/icons/\" target=\"_blank\">Lihat FontAwesome Icon Code</a>"
                         }
                        }
+                      },
+                      "menu_property": {
+                       "title" : "Secondary Menu",
+                       "start": "<!--TWINNY-MENU-LOCATION-START-->",
+                       "end": "<!--TWINNY-MENU-LOCATION-END-->",
+                       "fields" : {
+                         "icon": {
+                         "title": "Menu Icon",
+                         "desc": "Check Kode Font awesome <a href=\"https://fontawesome.com/icons/\" target=\"_blank\">Lihat FontAwesome Icon Code</a>"
+                        }
+                       }
                       }
-                PENGATURAN-TWINNY-MENU
+                TWINNY_BLOGGER-MENU-OPTIONS
               ]]>
             <![CDATA[
               PENGATURAN-TWINNYTHEMES-BLOGGER
@@ -98,6 +109,9 @@
                     },
 
                     "<i class='fal fa-lg fa-cogs'></i> <b style='color:var(--key);font-weight:900;'>Twinny Property</b> Framework": {
+                       "PENGATURAN FRAMEWORK": {
+                        "desc": "<div class='twinny-info' style='display: inline-grid;z-index:9999;grid-template-columns: 2fr 2fr;grid-gap: 40px;width: 88%;position: absolute;padding: 10px;content: ;background: #fff;margin-top: -30px;'><a><img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTxyS7hwxnBFJP36mCREA1pLBYr62rmdMLI_7gP0scAMCZvKP6Ox_6sOSY-UnRtHDaU5J98ceKMWqdXmsV7WGM-kl3kXD0SBPAg6KuHu4chtuDO2n_u5FYEorr8XEfQrCQ259QpqTKluE--X3xGhImsk0W9kRK36PMYbmQkljAwhqHF8PxnUfQ5BO1tQ/s1600/20220403_225425.jpg\" width=\"100%\" style=\"border-radius:20px;\"/></a><span><h2>Pengaturan Framekwork</h2> Telah kami sediakan untuk anda beberapa pengaturan untuk template anda. dan anda dapat menghapus/menghilangkan beberapa opsi dibawah ini.<br><br>Mohon untuk Perhatikan Deskripsi keterangan mengenai Opsi yang telah kami sediakan</span></div><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>"
+                       },
                     "FAQ Area Mode": {
                       "start": "<!--twinny-property-faq--><b:if cond='",
                       "end": "'><!--twinny-property-faq-->",
@@ -212,8 +226,8 @@
                      }
                     },
                     "<i class='fal fa-user-edit fa-lg'></i> Pengaturan Akun": {
-                     "I. PENGATURAN AKUN": {
-                      "desc": "<a href=\"https://twinnybloggers.blogspot.com/2019/12/twinny-spot-setting-and-spanlate.html\" target=\"blank\"><img src=\"https://blogger.googleusercontent.com/img/a/AVvXsEhSDYXAVl9G-Hef9wo1t6lWJoFZseQuLz3mBZW1WVB6Lb4LLUcWpQugG-KM_FkzojERFrMKyHT4VkA-ySdzGzY-CQfFfvkAqPns01qvNb24bnIrPzgB6HUNSGdH8zMUJvH8Qo_FqUmWd0ZlO44Y_vseGDuy3cPE1ZKqvgwztQDHC8cRNHzALngJ7bA8kQ=s790\" width=\"100%\"/></a><br>Jika anda ingin melakukan Setup template anda silahkan pilih pada sidebar disebelah kiri anda untuk mengatur template yang sedang anda ingin atur baik dari sistem Sidebar, Sistem Komentar dan lain-lain. pastikan Template anda support dengan Twinny Settings Karna beberapa tidak support dengan Twinny Settings"
+                     "PENGATURAN AKUN": {
+                      "desc": "<div class='twinny-info' style='display: inline-grid;z-index:9999;grid-template-columns: 2fr 2fr;grid-gap: 40px;width: 88%;position: absolute;padding: 10px;content: ;background: #fff;margin-top: -30px;'><a><img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0J95aKEUTIW73HIJkkH0byJcRGu3P8l3NVBLplM8X0Zyh1FDe_7eUR8teeH1g002l-nVU67-oI0t0CFgPV7KRdyZvCST0rpdQ_zq0l_Eb_emMyQDWEjxYhsj_BUUVMBCmMA7VUqrJaGL9pU38bbEnH8XU0BNnEQDD2MA4oMJdYGm427jsTf5z85zChw/s1600/20220403_224926.jpg\" width=\"100%\" style=\"border-radius:20px;\"/></a><span><h2>Pengaturan Akun</h2>Jika anda ingin melakukan Setup template anda silahkan pilih pada sidebar disebelah kiri anda untuk mengatur template yang sedang anda ingin atur baik dari sistem Sidebar, Sistem Komentar dan lain-lain. pastikan Template anda support dengan Twinny Settings Karna beberapa tidak support dengan Twinny Settings</span></div><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>"
                      },
 
                     "<i class='fal fa-fw  fa-tablet'></i> Nomor Whatsapp": {
@@ -250,6 +264,9 @@
 
 
                     "<b style='color:#009688;font-weight:900;'><i class='fa fa-lg  fa-paint-brush'></i> Pengaturan Template</b>": {
+                       "PENGATURAN TEMPLATE": {
+                        "desc": "<div class='twinny-info' style='display: inline-grid;z-index:9999;grid-template-columns: 2fr 2fr;grid-gap: 40px;width: 88%;position: absolute;padding: 10px;content: ;background: #fff;margin-top: -30px;'><a><img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTxyS7hwxnBFJP36mCREA1pLBYr62rmdMLI_7gP0scAMCZvKP6Ox_6sOSY-UnRtHDaU5J98ceKMWqdXmsV7WGM-kl3kXD0SBPAg6KuHu4chtuDO2n_u5FYEorr8XEfQrCQ259QpqTKluE--X3xGhImsk0W9kRK36PMYbmQkljAwhqHF8PxnUfQ5BO1tQ/s1600/20220403_225425.jpg\" width=\"100%\" style=\"border-radius:20px;\"/></a><span><h2>Pengaturan Template</h2> Telah kami sediakan untuk anda beberapa pengaturan untuk template anda. dan anda dapat menghapus/menghilangkan beberapa opsi dibawah ini.<br><br>Mohon untuk Perhatikan Deskripsi keterangan mengenai Opsi yang telah kami sediakan</span></div><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>"
+                       },
                       "Tombol Dark Mode": {
                         "start": "<!--dark-mode--><b:if cond='",
                         "end": "'><!--dark-mode-->",
@@ -273,6 +290,9 @@
                     },
 
                     "<i class='fal fa-bolt fa-lg fa-fw'></i> Pengaturan <b style='color:var(--key);font-weight:900;'>Posting</b>": {
+                       "PENGATURAN POSTING": {
+                        "desc": "<div class='twinny-info' style='display: inline-grid;z-index:9999;grid-template-columns: 2fr 2fr;grid-gap: 40px;width: 88%;position: absolute;padding: 10px;content: ;background: #fff;margin-top: -30px;'><a><img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8vWLEpxuxdYQfYhBH1RAKTqR6xYsZXDB3-qsFudyiZ30lIsPe3T4QGGnDM8zt88sQPU1PbQT2g2J-h_TNj08b8ZMPfIt9b_q93wbM30vdGgYDHZk_qpW-nPAJPiA4f-diq1OCRa349PQGoZG89IjBcWkq9lW-nz9w4BmOQ7e4wG2IVOl7Ry6dGQwLMg/s1600/20220403_225649.jpg\" width=\"100%\" style=\"border-radius:20px;\"/></a><span><h2>Pengaturan Posting</h2> Telah kami sediakan untuk anda beberapa pengaturan untuk template anda. dan anda dapat menghapus/menghilangkan beberapa opsi dibawah ini.<br><br>Mohon untuk Perhatikan Deskripsi keterangan mengenai Opsi yang telah kami sediakan</span></div><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>"
+                       },
                     "Author Info Profile Post": {
                       "start": "/*var-profile-info*/",
                       "end": "/*var-profile-info*/",
@@ -316,7 +336,9 @@
                     },
 
                     "<i class='fal fa-lg fa-comments-alt'></i> Pengaturan Komentar": {
-
+                       "PENGATURAN KOMENTAR": {
+                        "desc": "<div class='twinny-info' style='display: inline-grid;z-index:9999;grid-template-columns: 2fr 2fr;grid-gap: 40px;width: 88%;position: absolute;padding: 10px;content: ;background: #fff;margin-top: -30px;'><a><img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbqYMbY9_SREsmQWqBkdLPCSB6RfS5CMVUg979WiD5-beZ1Ukg8XUGUCbRW1Tmf8u9WtjXbozpTGtPLJ1TS19dxOENm7C-wb7XkAGFNGtVZ4tqWF09dRxoFDE9Eq4gXea6Wu7XsJZ4AlEm-j9C0-gFnT0pEZFllL_nGrvQOCP_BpCljycgA5onX3VFcQ/s1600/20220403_225909.jpg\" width=\"100%\" style=\"border-radius:20px;\"/></a><span><h2>Pengaturan Posting</h2> Telah kami sediakan untuk anda beberapa pengaturan untuk template anda. dan anda dapat menghapus/menghilangkan beberapa opsi dibawah ini.<br><br>Mohon untuk Perhatikan Deskripsi keterangan mengenai Opsi yang telah kami sediakan</span></div><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>"
+                       },
                     "Aktifkan Komentar (Blogger)": {
                       "start": "<!--var-commentact--><b:if cond='",
                       "end": "'><!--var-commentact-->",
@@ -391,50 +413,10 @@
                      }
                     },
 
-                    "<i class='fal fa-code fa-lg'></i> ADS System": {
-                    "<i class='icon ion-md-swap fa-lg'></i> Aktifkan Iklan Homepage Section": {
-                      "start": "<!--var-ads-homepage-part1--><b:if cond='",
-                      "end": "'><!--var-ads-homepage-part1-->",
-                      "type" : "select",
-                      "choice" : {
-                       "true" : "Aktifkan Iklan Homepage",
-                       "false" : "Nonaktifkan"
-                      },
-                      "desc": "Aktif atau nonaktifkan iklan pada Homepage Section"
-                     },
-                    "<i class='fal fa-fw  fa-pencil-square-o'></i> ADS Title ": {
-                      "start": "<!--var-ads-slide-title-->",
-                      "end": "<!--var-ads-slide-title-->",
-                      "type" : "text",
-                      "desc" : "ADS Title Slide"
-                     },
-                    "<i class='fal fa-fw  fa-pencil-square-o'></i> ADS URL Link": {
-                      "start": "<!--var-ads-slide-url--><a href='",
-                      "end": "' target='_blank'><!--var-ads-slide-url-->",
-                      "type" : "text",
-                      "desc" : "URL Link untuk ADS Slider"
-                     },
-                    "<i class='fal fa-fw  fa-pencil-square-o'></i> ADS URL Images ": {
-                      "start": "<!--var-ads-slide-image--><img src='",
-                      "end": "'/><!--var-ads-slide-image-->",
-                      "type" : "text",
-                      "desc" : "URL Link untuk ADS Slider"
-                     },
-                    "<i class='fal fa-paw fa-fw'></i>  Aktifkan Widget Iklan Pada Posting": {
-                      "start": "<!--var-ads-section-widget--><b:if cond='",
-                      "end": "'><!--var-ads-section-widget-->",
-                      "type" : "select",
-                      "choice" : {
-                       "true" : "Aktifkan Widget Iklan untuk Section Posting",
-                       "false" : "Tidak, Non Aktifkan Saja"
-                      },
-                      "desc": "<a href=\"https://3.bp.blogspot.com/-LUckHZsZgiA/Xm8pMrRd5BI/AAAAAAAAEow/qF0s7MfUklo5fOtbIdz7TIB3sOAfcoSTgCLcBGAsYHQ/s1600/Screenshot_20200316-142155_Chrome.jpg\" target=\"blank\" class=\"lightbox\"><img src=\"https://3.bp.blogspot.com/-LUckHZsZgiA/Xm8pMrRd5BI/AAAAAAAAEow/qF0s7MfUklo5fOtbIdz7TIB3sOAfcoSTgCLcBGAsYHQ/s1600/Screenshot_20200316-142155_Chrome.jpg\" width=\"100%\"/></a><br> Jika anda ingin aktifkan  Shared System Pada Produk Gambar, Pilih saja Aktifkan. Default: Aktifkan"
-                     },
-                    "<i class='fal fa-fw  fa-pencil-square-o'></i> ADS URL ": {
-                      "desc" : "WILL BE UPDATING FOR ADS SECTION"
-                     }
-                    },
                     "<b style='color:var(--key);font-weight:900;'><i class='fab fa-lg fa-android'></i> Mobile Management</b>": {
+                       "PENGATURAN MOBILE MANAGEMENT": {
+                        "desc": "<div class='twinny-info' style='display: inline-grid;z-index:9999;grid-template-columns: 2fr 2fr;grid-gap: 40px;width: 88%;position: absolute;padding: 10px;content: ;background: #fff;margin-top: -30px;'><a><img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEia-quOrRYZ9w5W21UXHER6K529Y88wDjQF9y2XADl6Df5f5nS9H1WqpSqVSBG8gy0Zo8ilS6jF_jgicdUzzqNPHrTt46eQuxXhMcy86pmZbezqytE7cnF3RplqEabH6Im0zc1Xg3Df7AjGkyCPNldCEUEXQrlW1OYU4ih2bGKPB4eQiGI_Hb6cTwgUag/s1600/20220403_230243.jpg\" width=\"100%\" style=\"border-radius:20px;\"/></a><span><h2>Pengaturan Posting</h2> Telah kami sediakan untuk anda beberapa pengaturan untuk template anda. dan anda dapat menghapus/menghilangkan beberapa opsi dibawah ini.<br><br>Mohon untuk Perhatikan Deskripsi keterangan mengenai Opsi yang telah kami sediakan</span></div><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>"
+                       },
                     "Tampilkan Produk Pada Homepage": {
                       "start": "/*var-product-grid-mobile*/",
                       "end"  : "/*var-product-grid-mobile*/",
@@ -472,6 +454,9 @@
                     },
 
                     "<i class='fal fa-lg fa-cog fa-spin'></i> ADD JAVASCRIPT/CSS": {
+                       "PENGATURAN JAVASCRIPT/STYLESHEET (CSS)": {
+                        "desc": "<div class='twinny-info' style='display: inline-grid;z-index:9999;grid-template-columns: 2fr 2fr;grid-gap: 40px;width: 88%;position: absolute;padding: 10px;content: ;background: #fff;margin-top: -30px;'><a><img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgojT-19DIspnnRUsyTtYCAxNj_wa-nI20riLfphmBxCxXF7vVChukKBRN-SSe5BXiQyKlLQF6V_fnlkUK5qnTc89wVhoaL4fuTidnUTCQ34kPwNlKbclYLqI2AuMUNfL1jx0X1WCpwa5tiZdJdvuTZRnHLbbPSUEX8YpodqTS-c2CQFGsn8HLpsW52gA/s1600/20220403_230609.jpg\" width=\"100%\" style=\"border-radius:20px;\"/></a><span><h2>Pengaturan Framekwork</h2> Telah kami sediakan untuk anda beberapa pengaturan untuk template anda. dan anda dapat menghapus/menghilangkan beberapa opsi dibawah ini.<br><br>Mohon untuk Perhatikan Deskripsi keterangan mengenai Opsi yang telah kami sediakan</span></div><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>"
+                       },
                     "<b style='color:#009688;font-weight:900;'>[Important]</b> ALL JAVASCRIPT/CSS CAN PUT ON TEXTAREA SECTION TWINNY PROPERTY - BLOGGER TEMPLATE": {
                       "desc": "<a href=\"https://twinny-property.blogspot.com/\" target=\"blank\"><img src=\"https://blogger.googleusercontent.com/img/a/AVvXsEhSDYXAVl9G-Hef9wo1t6lWJoFZseQuLz3mBZW1WVB6Lb4LLUcWpQugG-KM_FkzojERFrMKyHT4VkA-ySdzGzY-CQfFfvkAqPns01qvNb24bnIrPzgB6HUNSGdH8zMUJvH8Qo_FqUmWd0ZlO44Y_vseGDuy3cPE1ZKqvgwztQDHC8cRNHzALngJ7bA8kQ=s790\" width=\"100%\"/></a><br>Jika anda ingin melakukan Setup template anda silahkan pilih pada sidebar disebelah kiri anda untuk mengatur template yang sedang anda ingin atur baik dari sistem Sidebar, Sistem Komentar dan lain-lain. pastikan Template anda support dengan Twinny Settings Karna beberapa tidak support dengan Twinny Settings"
                      },
@@ -494,8 +479,8 @@
                     "desc": "Masukan Javascript/Css Pada Body Section, Cocokan TAG Penyimpanan yang sesuai"
                      }
                     },"<b style='color:#009688;font-weight:900;'><i class='fal fa-lg fa-cog fa-spin'></i> TWINNY PROPERTY - ACTIVATION</b>": {
-                    "<b style='color:#009688;font-weight:900;'>[Important]</b> Activation Twinny Property": {
-                      "desc": "<a href=\"https://twinny-property.blogspot.com/\" target=\"blank\"><img src=\"https://blogger.googleusercontent.com/img/a/AVvXsEhSDYXAVl9G-Hef9wo1t6lWJoFZseQuLz3mBZW1WVB6Lb4LLUcWpQugG-KM_FkzojERFrMKyHT4VkA-ySdzGzY-CQfFfvkAqPns01qvNb24bnIrPzgB6HUNSGdH8zMUJvH8Qo_FqUmWd0ZlO44Y_vseGDuy3cPE1ZKqvgwztQDHC8cRNHzALngJ7bA8kQ=s790\" width=\"100%\"/></a>"
+                       "PENGATURAN MOBILE MANAGEMENT": {
+                        "desc": "<div class='twinny-info' style='display: inline-grid;z-index:9999;grid-template-columns: 2fr 2fr;grid-gap: 40px;width: 88%;position: absolute;padding: 10px;content: ;background: #fff;margin-top: -30px;'><a><img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQEbtUdkMC8B_wzkqPnUcqM6Tf_aXZd5vLcMoiWPN7MGNq464VuyQWUYtOLLKAmYklhwAMaz5X9_exGQ2cT1p8RI8AbyaqkXUiLQl8Zpi8bOUic5Oo5ZSeyo9j8PqHC87pk7n1rdv-6AUPzoi2k7-Y8g-wd6FUMBnqdj6YUMps2XbLmUnL0qodGjZS7w/s1600/20220403_222335.jpg\" width=\"100%\" style=\"border-radius:20px;\"/></a><span><h2>Pengaturan Posting</h2> Telah kami sediakan untuk anda beberapa pengaturan untuk template anda. dan anda dapat menghapus/menghilangkan beberapa opsi dibawah ini.<br><br>Mohon untuk Perhatikan Deskripsi keterangan mengenai Opsi yang telah kami sediakan</span></div><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>"
                      },"<b style='color:#009688;font-weight:900;'>[ACTIVATED Template]</b> Activated TWINNY PROPERTY - BLOGGER Template": {
                       "start": "<!--var-tokkoblogger-activation--><b:if cond='",
                       "end": "'><!--var-tokkoblogger-activation-->",
@@ -529,4 +514,4 @@
 
 
        TWINNY_BLOGGER-TEMPLATE-OPTIONS
-      ]]>
+      ]]> 
