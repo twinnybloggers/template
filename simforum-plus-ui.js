@@ -14,6 +14,6 @@
 
     Salam,
     Tokko Blogger - SimForum Plus UI
-    Path: simforumplus-ui-blogger-template-forum
+    Path: simforumplusui-blogger-template-forum
 
 ================================================================================================ */
